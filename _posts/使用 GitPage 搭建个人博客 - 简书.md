@@ -1,4 +1,4 @@
-﻿---	
+---	
 layout: post	
 title: 使用 GitPage 搭建个人博客	
 categories: 建站	
