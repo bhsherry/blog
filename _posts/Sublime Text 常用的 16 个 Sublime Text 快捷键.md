@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Sublime Text 常用的 16 个 Sublime Text 快捷键
 categories: 工具使用
