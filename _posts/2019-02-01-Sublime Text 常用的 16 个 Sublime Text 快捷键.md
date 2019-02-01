@@ -6,16 +6,9 @@ description: Sublime Text 常用的 16 个 Sublime Text 快捷键
 keywords: 快捷键, Sublime Text
 ---
 
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 http://www.mamicode.com/info-detail-651198.html <script type="text/javascript">mamicode_adload('title_before');</script>
-
 # Sublime Text 常用的 16 个 Sublime Text 快捷键
 
-时间：2015-05-25 00:52:19      阅读：66111      评论：0      收藏：0      <a id="infofavorite" class="acursorpointer" onclick="infofavorite_click();" data-ss1543215261="1">[点我收藏 +]</a> <script type="text/javascript">mamicode_adload('content_before');</script>
-
-标签：
-
 在我做了一次包含一些现场编码的演示后，一些观众问我是如何操作这么快。当然这里没有唯一的答案，答案是一堆简单的快捷键和大量的实践的组合。为了回应那些询问，我觉得有必要看看我每天想都不用想且使用的快捷键。
-
 这里有一个 ~~15~~ 16 个快捷键的精选列表 (1 个自定义快捷键)，以 gif 动画展示，我每天使用。享受吧!
 
 (译者注：原文所列快捷键均为 OS X 环境，为了方便 Windows 和 Linux 环境童鞋的学习，译者将备注 Windows 和 Linux 下对应的快捷键)
